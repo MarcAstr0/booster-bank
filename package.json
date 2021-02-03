@@ -1,6 +1,6 @@
 {
   "name": "bank",
-  "description": "Bank application built with the",
+  "description": "Bank application built with the Booster framework.",
   "version": "0.1.0",
   "author": "Mario Castro Squella <mario@theagilemonkeys.com>",
   "dependencies": {
